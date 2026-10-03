@@ -1,0 +1,3 @@
+PySide6>=6.8,<7
+Pillow>=10,<13
+markitdown[docx,pdf,pptx,xls,xlsx]==0.1.8
